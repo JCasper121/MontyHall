@@ -1,0 +1,15 @@
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\MontyHall.exe
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\MontyHall.deps.json
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\MontyHall.runtimeconfig.json
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\MontyHall.dll
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\ref\MontyHall.dll
+C:\Coding\MontyHall\MontyHall\bin\Debug\net6.0\MontyHall.pdb
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.csproj.AssemblyReference.cache
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.AssemblyInfoInputs.cache
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.AssemblyInfo.cs
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.csproj.CoreCompileInputs.cache
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.dll
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\ref\MontyHall.dll
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.pdb
+C:\Coding\MontyHall\MontyHall\obj\Debug\net6.0\MontyHall.genruntimeconfig.cache
